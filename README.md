@@ -11,6 +11,6 @@ I like to build cool stuffs and get better at programming.
 
 - 🚀 I’m currently working on Android, Flutter
 - 🌱 I’m currently learning or (at least hoping to learn) Flutter
-- 👯 I’m looking to collaborate on anything Open Source
+- 👯 I’m looking forward to collaborating on anything Open Source
 - ✍🏻 I write about my experiences at <a href="https://dev.to/edkluivert" target="_blank">dev.to/edkluivert</a>
-- ⚡ Fun fact: I hope to build a company like google someday
+- ⚡ Fun fact: I hope to build a company like Google someday
