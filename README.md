@@ -1,4 +1,4 @@
-<h1 align="center">Hey There! 👋</h1>
+<h1 align="center">Hello There! 👋</h1>
 
 <p align="center">
 I like to build cool stuffs and get better at programming.
