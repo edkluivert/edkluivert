@@ -13,4 +13,6 @@ I like to build cool stuffs and get better at programming.
 - 🌱 I’m currently learning or (at least hoping to learn) Flutter
 - 👯 I’m looking forward to collaborating on anything Open Source
 - ✍🏻 I write about my experiences at <a href="https://dev.to/edkluivert" target="_blank">dev.to/edkluivert</a>
-- ⚡ Fun fact: I hope to build a company like Google someday
+
+
+![Visitor Count](https://profile-counter.glitch.me/{Tristankluivert}/count.svg)
