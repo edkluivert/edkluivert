@@ -15,4 +15,4 @@ I like to build cool stuffs and get better at programming.
 - ✍🏻 I write about my experiences at <a href="https://dev.to/edkluivert" target="_blank">dev.to/edkluivert</a>
 
 
-![Visitor Count](https://profile-counter.glitch.me/{Tristankluivert}/count.svg)
+     ![Visitor Count](https://profile-counter.glitch.me/{Tristankluivert}/count.svg)
