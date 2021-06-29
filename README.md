@@ -10,7 +10,7 @@ I like to build cool stuffs and get better at programming.
 </p>
 
 - 🚀 I’m currently working on Android, Also available for an Android developer position
-- 🌱 I’m currently learning or (at least hoping to learn) Flutter
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking forward to collaborating on anything Open Source
 - ✍🏻 I write about my experiences at <a href="https://dev.to/edkluivert" target="_blank">dev.to/edkluivert</a>
 
