@@ -1,7 +1,7 @@
 <h1 align="center">Hello There! 👋</h1>
 
 <p align="center">
-I like to build cool stuffs and get better at programming.
+I like to build cool stuffs.
 </p>
 
 <p align="center">
