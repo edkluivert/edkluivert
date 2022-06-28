@@ -10,7 +10,6 @@ I like to build cool stuffs.
 </p>
 
 - 🚀 I’m currently working on Flutter, also available for a Flutter developer position
-- 🌱 I’m currently learning Flutter
 - 👯 I’m looking forward to collaborating on anything Open Source
 - ✍🏻 I write about my experiences at <a href="https://dev.to/edkluivert" target="_blank">dev.to/edkluivert</a>
 
